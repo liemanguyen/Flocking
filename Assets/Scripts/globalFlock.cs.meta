@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e03a303cc3a694d4f81c658ecd830718
+timeCreated: 1497385833
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animalPrefab: {fileID: 1080706399044924, guid: 89820b417571a894e9ae111cf434b8ef,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
